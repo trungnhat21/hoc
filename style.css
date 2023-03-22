@@ -1,0 +1,52 @@
+*{
+    font-size: 10px;
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-size: 3rem;
+    color:rgb(15, 10, 104) !important;
+}
+.text-class{
+    color:blue;
+    font-size: 2rem;
+}
+.text-list{
+    color:blue;
+    font-size: 2.5rem;
+}
+.text-title{
+    color:red;
+    text-align: center;
+    font-size: 4rem;
+}
+#bang-noi-quy{
+    border: 10px solid rgb(21, 21, 235);
+    margin: 50px;
+    padding: 5px;
+}
+#bang-noi-quy > div{
+    border: 5px solid rgb(100, 98, 230);
+    padding: 50px;
+}
+.box{
+    margin: 0 auto;
+    width:1000px;
+    border: 1px solid #333;
+}
+.table
+{
+    display:block;
+    margin: 0 auto;
+    border:5px blue double;
+    width: 950px;
+    padding: 20px;
+}
+.logo
+{
+    width: 50px;
+    display: inline-block;
+}
+.a{
+    display: inline-block;
+}
