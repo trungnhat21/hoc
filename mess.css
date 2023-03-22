@@ -1,0 +1,65 @@
+.one{
+    background-color: rgb(234, 241, 239);
+    border-radius: 50px;
+    width: 200px;
+    text-align:center;
+}
+.on{
+    display: flex;
+    list-style: none;
+    background-color: white;
+    width: 360px;
+}
+.ont{
+    display: flex;
+}
+.mau{
+    background-color: blue;
+    border-radius: 20px;
+    width: 50px;
+    padding: 3px;
+    text-align: center;
+}
+.two {
+    background-color: white;
+    display: flex;
+    border-radius: 50px;
+    width: 100%;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+}
+.icon{
+    background-color: white;
+    width: 180px;
+    margin-right: auto;
+}
+.icon {
+    display: flex;
+    justify-content: center;
+    gap: 22px;
+}
+.le {
+    border-radius: 50px;
+    width: 100%;
+    position: relative;
+}
+.le:before {
+    content: "\f118";
+    font-family: 'FontAwesome';
+    position: absolute;
+    right: 10px;
+    top: 3px;
+}
+.len{
+    border-radius: 50px;
+    width: 1250px;
+    text-align: center;
+    background-color: rgb(234, 241, 239);
+}
+.icon1 {
+    width: 100%;
+    display: flex;
+    justify-content: unset;
+}
