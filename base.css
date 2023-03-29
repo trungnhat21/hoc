@@ -1,0 +1,62 @@
+.demo{
+    display: flex;
+    gap: 100px;
+    width: 100%;
+}
+.logo{
+    width: 100%;
+}
+.logo1{
+    width: 100%
+}
+.canh{
+    display: flex;
+    text-align: center;
+    width: 89%;
+    padding-left: 5.5%;
+}
+.canh1{
+    display: flex;
+    text-align: center;
+    padding-bottom: 5%;
+    padding-left: 5.5%;
+    width: 89%;
+}
+.mot{
+    display: flex;
+    justify-content: center;
+    background-color: yellow;
+    width: 100%;
+}
+.mot1{
+    margin-right: auto;
+    padding-left: 7%;
+}
+.mot2{
+    margin-left: auto;
+    padding-right: 7%;
+}
+.anh1{
+    width: 100%;
+}
+.logot{
+    width: 40%;
+    padding-left: 0.5%;
+}
+.text{
+    margin-top: -70px;
+    font-size: 30px;
+}
+.text1{
+    margin-top: -90px;
+    color: white;
+    font-size: 30px;
+}
+.menu{
+    display: flex;
+    gap:40px;
+    padding-left: 2.1%;
+}
+.sty{
+    max-width: 100%;
+}
